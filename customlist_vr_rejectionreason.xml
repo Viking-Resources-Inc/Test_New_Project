@@ -1,0 +1,12 @@
+<customlist scriptid="customlist_vr_rejectionreason">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Rejection Reason</name>
+  <customvalues>
+    <customvalue scriptid="val_62358_t1545254_618">
+      <isinactive>F</isinactive>
+      <value>Over Budget</value>
+    </customvalue>
+  </customvalues>
+</customlist>
